@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+#gameboard {
+  height: 300px;
+  width: 300px;
+}
+
+.row {
+  display: flex;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 95px;
+}

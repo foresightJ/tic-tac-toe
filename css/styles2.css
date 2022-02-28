@@ -1,0 +1,75 @@
+/* :root {
+  --boxcolor: red;
+}
+body {
+  border: 2px dotted red;
+  height: 98vh;
+  margin: auto;
+}
+main {
+  height: 500px;
+  margin: auto;
+}
+
+#main-board {
+  border: 2px dotted greenyellow;
+  max-width: 500px;
+  height: inherit;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "box1 box2 box3"
+    "box4 box5 box6"
+    "box7 box8 box9";
+  grid-gap: 4px;
+  margin: auto;
+}
+.game {
+  border: 2px dotted red;
+}
+
+#box1 {
+  grid-area: box1;
+  border: 2px solid #0073ff;
+}
+
+#box2 {
+  grid-area: box2;
+  border: 2px solid #0073ff;
+}
+
+#box3 {
+  grid-area: box3;
+  border: 2px solid #0073ff;
+}
+
+#box4 {
+  grid-area: box4;
+  border: 2px solid #0073ff;
+}
+
+#box5 {
+  grid-area: box5;
+  border: 2px solid #0073ff;
+}
+
+#box6 {
+  grid-area: box6;
+  border: 2px solid #0073ff;
+}
+
+#box7 {
+  grid-area: box7;
+  border: 2px solid #0073ff;
+}
+
+#box8 {
+  grid-area: box8;
+  border: 2px solid #0073ff;
+}
+
+#box9 {
+  grid-area: box9;
+  border: 2px solid #0073ff;
+} */
